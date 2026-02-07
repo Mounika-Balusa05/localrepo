@@ -10,4 +10,15 @@ This includes the following steps:
    git init
 2. **Stage Files**
    git add .
+3. **Commit Changes**
+   git commit -m "Initial commit"
+4. **Connect to Remote Repository**
+   git remote add origin <repository-URL>
+5. **Push to GitHub**
+   git push -u origin main
+6. - Uploads the files/folders to the remote repository.
+
+
+
+
 
