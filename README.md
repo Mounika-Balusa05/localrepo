@@ -1,7 +1,7 @@
-## This is my local repo.
+# This is my local repo.
 
-In this repository i have learnt how to push a file/folder from vs code terminal.
-## Learning Journey
+In this repository i have learned how to push a file/folder from vs code terminal.
+# Learning Journey
 
 In this repository, I have learned how to push a file or folder from the VS Code terminal to GitHub.  
 This includes the following steps:
@@ -17,6 +17,8 @@ This includes the following steps:
 5. **Push to GitHub**
    > git push -u origin main
 6. Uploads the files/folders to the remote repository.
+
+## This helped me understand the basic Git workflow and version control process.
 
 
 
